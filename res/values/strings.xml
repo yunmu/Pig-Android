@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_full_name">射频读写系统</string>
+    <string name="app_name">射频读写</string>
+
+    <!-- 主机默认地址 -->
+    <string name="main_url">http://10.2.201.79:8080/book/page</string>
+    <string name="button_ok">确定</string>
+    <string name="button_yes">是</string>
+    <string name="button_no">否</string>
+    <string name="msg_check">抱歉，无法检测到网络，是否打开无线与网络设置界面。</string>
+    <string name="msg_host_error">服务器错误，请稍后再试！</string>
+    <string name="title_reminder">温馨提示</string>
+    <string name="menu_settings">Settings</string>
+    <string name="login">登录</string>
+    <string name="exit">退出</string>
+    <string name="username">用户名</string>
+    <string name="password">密码</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+
+</resources>
